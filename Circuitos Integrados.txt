@@ -1,0 +1,157 @@
+### 🟢 Questões Objetivas CIRCUITOS INTEGRADOS 
+
+**1.** O circuito integrado marcou qual geração dos computadores?
+
+a) Primeira
+
+b) Segunda
+
+c) Terceira (CORRETA)
+
+d) Quarta
+
+---
+
+**2.** O circuito integrado foi inventado inicialmente por:
+
+a) Alan Turing
+
+b) Jack Kilby (CORRETA)
+
+c) John von Neumann
+
+d) Howard Aiken
+
+---
+
+**3.** Jack Kilby trabalhava na:
+
+a) IBM
+
+b) Microsoft
+
+c) Texas Instruments (CORRETA)
+
+d) Intel
+
+---
+
+**4.** Robert Noyce estava associado à empresa:
+
+a) Fairchild Semiconductor (CORRETA)
+
+b) Apple
+
+c) HP
+
+d) Dell
+
+---
+
+**5.** O principal material usado na fabricação dos circuitos integrados é:
+
+a) Ferro
+
+b) Cobre
+
+c) Silício (CORRETA)
+
+d) Alumínio
+
+---
+
+**6.** A principal vantagem dos circuitos integrados sobre os transistores discretos foi:
+
+a) Aumento de tamanho
+
+b) Maior consumo de energia
+
+c) Miniaturização e maior confiabilidade (CORRETA)
+
+d) Uso de válvulas
+
+---
+
+**7.** O IBM System/360 pertence à geração:
+
+a) Primeira
+
+b) Segunda
+
+c) Terceira (CORRETA)
+
+d) Quarta
+
+---
+
+**8.** SSI significa:
+
+a) Super System Integration
+
+b) Small Scale Integration (CORRETA)
+
+c) Standard Silicon Integration
+
+d) Simple System Interface
+
+---
+
+**9.** VLSI significa:
+
+a) Very Large Scale Integration (CORRETA)
+
+b) Virtual Logic System Integration
+
+c) Variable Large Silicon Integration
+
+d) Visual Logic Scale Integration
+
+---
+
+**10.** A evolução dos circuitos integrados possibilitou o surgimento do:
+
+a) Ábaco
+
+b) Computador mecânico
+
+c) Microprocessador (CORRETA)
+
+d) Computador a válvula
+
+---
+
+---
+
+### 🟡 Questões Discursivas
+
+**11.** Explique o que é um circuito integrado.
+É UM CHIPE PEQUENO DE SILÍCIO QUE TEM MILHARES OU BILHÕES DE TRANSISTORES DENTRO DELE.
+
+**12.** Quais problemas da geração anterior foram resolvidos com o uso de CIs?
+OCUPAÇÃO DE ESPAÇO, CONFIABILIDADE, VELOCIDADE, AQUECIMENTO E CUSTO
+
+**13.** Compare transistores discretos e circuitos integrados.
+TRANSISTORES DISCRETOS SÃO COMPONENTES SEPARADOS MONTADOS INDIVIDUALMENTE, ENQUANTO UM CI CONTÉM VÁRIOS TRANSISTORES DENTRO DE UM ÚNICO CHIP.
+
+**14.** Explique a importância do processo planar desenvolvido por Robert Noyce.
+O PROCESSO PLANAR VIABILIZOU A MINIATURIZAÇÃO, CONFIABILIDADE EM CHIPS E PERMITIU A PRODUÇÃO EM MASSA, IMPULSIONANDO O DESENVOLVIMENTO DE MICROPROCESSADORES PARA A ERA MODERNA.
+
+**15.** Qual foi a importância do IBM System/360 para a padronização da computação?
+ELE FOI IMPORTANTE PORQUE INTRODUZIU A IDEIA DE "FAMÍLIA DE COMPUTADORES" COMPATÍVEIS ENTRE SI, COM ISSO PROGRAMAS QUE ANTES SÓ RODAVAM EM UMA MÁQUINA COMEÇOU A SER COMPATÍVEL COM OUTRAS. SOFTWARES SÃO REUTILIZADOS, DIFERENTES MODELOS TINHAM A MESMA ARQUITETURA BÁSICA.
+
+**16.** Diferencie SSI, MSI, LSI e VLSI.
+A DIFERENÇA ESTÁ NA QUANTIDADE DE TRANSISTORES INTEGRADOS EM UM ÚNICO CHIP, AUMENTANDO DA PEQUENA PARA MUITO GRANDE ESCALA DE INTEGRAÇÃO.
+
+**17.** Explique como os circuitos integrados contribuíram para a miniaturização da eletrônica.
+OS CIRCUITOS INTEGRADOS PERMITIRAM CONCENTRAR UMA GRANDE QUANTIDADE DE TRANSISTORES EM UM ÚNICO CHIP, DIMINUINDO ASSIM SEU TAMANHO E AUMENTANDO SUA EFICIÊNCIA, PERMITINDO A CRIAÇÃO DE NOVOS DISPOSITIVOS ELETRÔNICOS CADA VEZ MENORES E MAIS POTENTES.
+
+**18.** Descreva o impacto dos circuitos integrados na indústria e na sociedade.
+OS CIRCUITOS INTEGRADOS PERMITIRAM A CRIAÇÃO DE COMPUTADORES PESSOAIS, POPULARIZAÇÃO DA INFORMÁTICA, AVANÇO NAS TELECOMUNICAÇÕES E NAS INDÚSTRIAS ESPACIAIS.
+
+**19.** Por que os circuitos integrados são considerados um divisor de águas na história da computação?
+PORQUE PERMITIRAM COLOCAR DIVERSOS TRANSISTORES EM UM CHIP, DIMINUINDO BASTANTE O ESPAÇO, AUMENTANDO A VELOCIDADE E CONFIABILIDADE DOS COMPUTADORES,
+
+**20.** Relacione a evolução dos circuitos integrados com o surgimento dos computadores pessoais.
+COMPUTADORES PESSOAIS SÓ FORAM CRIADOS PRATICAMENTE POR CAUSA DOS CIRCUITOS INTEGRADOS QUE FIZERAM COMPUTADORES OCUPAREM MENOS ESPAÇO, TORNANDO ASSIM BEM MAIS EFICIENTE E ACESSÍVEL PARA USO PESSOAL.
+
+---
