@@ -1,0 +1,159 @@
+1. Qual foi a principal contribuição de Johannes Gutenberg para a história da impressão por volta de 1440?
+
+a) A invenção do papel à base de celulose
+b) O desenvolvimento da prensa rotativa movida a vapor
+c) A criação dos tipos móveis de metal e da prensa adaptada (CORRETA)
+d) A descoberta acidental da técnica offset
+e) A invenção da fotocomposição
+
+2. Em que século e local surgiram as primeiras técnicas de impressão com blocos de madeira entalhados?
+
+a) Século I dC, na Europa
+b) Século II dC, na China (CORRETA)
+c) Século VIII dC, no Oriente Médio
+d) Século X dC, no Japão
+e) Século XV dC, na Alemanha
+
+3. Qual foi o primeiro livro impresso em massa por Gutenberg, que se tornou um dos livros mais valiosos do mundo?
+
+a) O Corão
+b) A Divina Comédia
+c) A Bíblia de Gutenberg (CORRETA)
+d) O Livro dos Mortos
+e) A Enciclopédia Britânica
+
+4. O linótipo, inventado por Ottmar Mergenthaler em 1886, revolucionou a impressão ao:
+
+a) Automatizar a composição de linhas inteiras com metal fundido (CORRETA)
+b) Substituir os tipos móveis por cilindros rotativos v
+c) Utilizar eletricidade estática para fixar o toner no papel
+d) Permitir a impressão em núcleos pela primeira vez
+e) Introduzir a impressão sem contato mecânico
+
+5. A descoberta da técnica de impressão offset ocorreu acidentalmente em 1901 quando:
+
+a) Uma prensa a vapor superaqueceu e derreteu os tipos
+b) Ira Washington Rubel esqueceu de inserir a folha e a imagem foi fornecida pela manta de borracha (CORRETA)
+c) Chester Carlson aplicou eletricidade estática em um cilindro fotossensível
+d) Friedrich Koenig substituiu a prensa manual por cilindros rotativos
+e) Richard Hoe fez a primeira prensa rotativa a vapor
+
+6. Qual foi a inovação pela prensa rotativa de Richard March Hoe (1843-1870)?
+
+a) A utilização de tipos móveis de metal
+b) A substituição de superfícies planas por cilindros rotativos (CORRETA)
+c) A introdução de tinta à base de óleo
+d) A automação da composição de linhas
+e) O uso de eletricidade estática para fixação do toner
+
+7. Em que ano o físico Chester Floyd Carlson inventou a primeira impressora baseada em eletrografia, que deu origem à tecnologia Xerox?
+
+a) 1901
+b) 1938 (CORRETA)
+c) 1953
+d) 1971
+e) 1983
+
+8. Qual foi o marco das impressoras a laser no mercado comercial, ocorrido em 1983?
+
+a) Lançamento da primeira impressora matricial pela Epson
+b) Desenvolvimento das primeiras impressoras a laser comerciais pela HP e Canon (CORRETA)
+c) Invenção da impressora jato de tinta pela Canon
+d) Lançamento do sistema EcoTank pela Epson
+e) Criação da primeira impressora 3D comercial
+
+9. Qual das seguintes tecnologias de impressão utiliza um cilindro fotorreceptor, um laser para descarregar áreas específicas e toner em pó fundido por calor?
+
+a) Jato de tinta
+b) Matricial
+c) Térmica
+d) Laser (CORRETA)
+e) Offset
+
+10. Os sistemas de impressão com tanque de tinta recarregável, como o EcoTank da Epson, representaram uma inovação principalmente por:
+
+a) Aumentar a velocidade de impressão
+b) Reduzir drasticamente o custo por página e os resíduos plásticos (CORRETA)
+c) Introduzir a impressão sem fio pela primeira vez
+d) Permitir a impressão em 3D em residências
+e) Substituir o toner por tinta líquida em impressoras laser
+
+11. Qual tecnologia de impressão é mais adequada para alto volume em escritórios, oferecendo alta velocidade e qualidade superior?
+
+a) Jato de tinta doméstica
+b) Matricial
+c) Térmica
+d) Laser (CORRETA)
+e) Sublimação de tinta
+
+12. As impressoras matriciais (de impacto) ainda são utilizadas em aplicações específicas porque:
+
+a) Oferecem a mais alta resolução entre todas as tecnologias
+b) São silenciosos e ideais para ambientes domésticos
+c) Permitem a impressão em vias de carbono e formulários contínuos (CORRETA)
+d) Utilizam tinta líquida de baixo custo
+e) São as mais rápidas para impressão fotográfica
+
+13. Qual foi a contribuição de Friedrich Koenig para a história da impressão em 1814?
+
+a) Invenção do linótipo
+b) Desenvolvimento da primeira prensa plana movida a vapor (CORRETA)
+c) Criação da prensa rotativa 
+d) Descoberta da técnica offset
+e) Invenção dos tipos móveis de metal
+
+14. Qual tecnologia de impressão é descrita pela ejeção de gotículas de tinta através de centenas de pequenos furos no cabeçote?
+
+a) Laser
+b) Matricial
+c) Térmica
+d) Jato de tinta (CORRETA)
+e) Offset
+
+15. As impressoras 3D se diferenciam das impressoras tradicionais principalmente porque:
+
+a) Utilize apenas tinta preta
+b) Imprima em velocidades muito superiores
+c) Crie objetos tridimensionais camada por camada (CORRETA)
+d) Não necessite de energia elétrica para funcionar
+e) Utilize exclusivamente papel como consumo
+
+16. Qual foi a principal desvantagem do sistema de impressão baseado em cartuchos adicionais, que motivou o desenvolvimento dos sistemas tanque (EcoTank)?
+
+a) Baixa qualidade de impressão
+b) Velocidade insuficiente para escritórios
+c) Alto custo por página e grande volume de resíduos plásticos (CORRETA)
+d) Impossibilidade de impressão colorida
+e) Falta de conectividade com computadores
+
+17. Em que década as impressoras jato de tinta foram popularizadas para uso doméstico e de pequenos escritórios?
+
+a) Década de 1960
+b) Década de 1970
+c) Final da década de 1980 (CORRETA)
+d) Década de 1990
+e) Década de 2000
+
+18. O processo de impressão offset utiliza três cilindros principais. Qual é a função da manta de borracha (blanqueta) nesse processo?
+
+a) Transportar a tinta da matriz para o papel (CORRETA)
+b) Fundir o toner ao papel por calor
+c) Carregar eletrostaticamente o cilindro fotossensível
+d) Ejetar gotículas de tinta no papel
+e) Compor linhas inteiras com metal fundido
+
+19. Qual tecnologia de impressão é mais indicada para a produção de cupons fiscais e extratos bancários devido ao seu funcionamento silencioso e ausência de tinta?
+
+a) Laser
+b) Jato de tinta
+c) Matricial
+d) Térmica (CORRETA)
+e) Offset
+
+20. Qual das seguintes afirmações sobre a evolução histórica das impressoras é correta?
+
+a) A impressão offset foi desenvolvida antes da prensa de Gutenberg
+b) O linótipo substituiu a composição manual automatizando a criação de linhas de tipos (CORRETA)
+c) As impressoras a laser foram inventadas antes das impressoras jato de tinta
+d) As impressoras 3D foram popularizadas na década de 1970
+e) A tecnologia de impressão térmica foi a primeira a ser desenvolvida no século XV

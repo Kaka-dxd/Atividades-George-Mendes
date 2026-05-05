@@ -1,0 +1,132 @@
+🟢 Questões Objetivas (Múltipla Escolha)
+1. O primeiro microprocessador comercial foi o:
+
+a) Intel 8086
+
+b) Motorola 68000
+
+c) Intel 4004 (CORRETA)
+
+d) MOS 6502
+
+2. O Intel 4004 foi lançado no ano de:
+
+a) 1965
+
+b) 1971 (CORRETA)
+
+c) 1978
+
+d) 1981
+
+3. O microprocessador utilizado no Apple I foi o:
+
+a) Intel 8080
+
+b) Intel 8086
+
+c) MOS 6502 (CORRETA)
+
+d) Motorola 68040
+
+4. O Apple I foi criado por:
+
+a) Bill Gates e Paul Allen
+
+b) Steve Jobs e Steve Wozniak (CORRETA)
+
+c) Gordon Moore e Robert Noyce
+
+d) Alan Turing e John von Neumann
+
+5. O computador que consolidou o padrão x86 foi o:
+
+a) Apple II
+
+b) Macintosh
+
+c) IBM PC (CORRETA)
+
+d) Commodore 64
+
+6. O Apple Macintosh (1984) utilizava qual microprocessador?
+
+a) Intel 4004
+
+b) Intel 8086
+
+c) Motorola 68000 (CORRETA)
+
+d) MOS 6502
+
+7. A arquitetura ARM passou a ser utilizada pela Apple oficialmente em:
+
+a) 1990
+
+b) 2000
+
+c) 2006
+
+d) 2020 (CORRETA)
+
+8. O primeiro chip da linha Apple Silicon foi o:
+
+a) A10
+
+b) M1 (CORRETA)
+
+c) PowerPC
+
+d) Pentium
+
+9. A Lei de Moore afirma que:
+
+a) O preço dos computadores dobra a cada ano
+
+b) O tamanho dos chips aumenta constantemente
+
+c) O número de transistores dobra aproximadamente a cada dois anos (CORRETA)
+
+d) A velocidade da internet dobra anualmente
+
+10. O Apple II foi importante porque:
+
+a) Foi o primeiro computador com válvulas
+
+b) Popularizou o computador pessoal (CORRETA)
+
+c) Introduziu o microprocessador 64 bits
+
+d) Criou a internet
+
+🟡 Questões Discursivas
+11. Explique o que é um microprocessador.
+É UM CIRCUITO INTEGRADO ESPECÍFICO QUE FUNCIONA COMO CÉREBRO DO COMPUTADOR.
+
+12. Descreva a importância do Intel 4004 na história da computação.
+O INTEL 4004 FOI O PRIMEIRO MICROPROCESSADOR COMERCIAL DA HISTÓRIA.
+
+13. Explique como o Apple II contribuiu para a popularização dos computadores pessoais.
+ELA CONTIBUIU PARA A POPULARIZAÇÃO DOS COMPUTADORES PESSOAIS PORQUE ERA RELATIVAMENTE DÁCIL DE USAR, CONFIÁVEL E VOLTADO PARA USO DOMÉSTICO.
+
+14. Compare a arquitetura x86 com a arquitetura ARM utilizada nos chips Apple Silicon.
+A ARQUITERURA 86x PRIORIZA DESEMPENHO COM INSTRUÇOES COMPLEXAS , ENQUANTO A ARM USA INSTRUÇÕES MAIS SIMPLES E EFICIÊNTES
+
+15. Explique o impacto do IBM PC no mercado mundial.
+ELE AJUDOU A PADRONIZAR OS COMPUTADORES  PESSOAIS E ACELEROU SUA ADOÇÃO PARA EMPRESAS E USUÁRIOS. (ELE USVASA INTEL COMO PROCESSADOR E MICROSFT COMO SISTEMA OPERACIONAL.
+
+16. escreva a importância do Apple Macintosh para a evolução da interface gráfica.
+ELE FOI MUITO IMPORTANTE PARA A INTERFACE GRÁFICA POIS POPULARIZOU DE JANELAS , ÍCONES E ATÉ O MOUSE, TORNANDO  OS COMPUTADORES MAIS INTUITIVOS E VSUAIS
+
+17. Analise a decisão da Apple de migrar para chips próprios (M1).
+MIGRAR PARA CHIPS PRÓPRIOS FEZ A APPLE TER MAIS CONTROLE SOBRE O HARDWARE E O SOFTWARE DE SEUS COMPUTADORES, MELHORANDO ASSIM, O DESENPENHO DE SUAS PRODUÇÕES.
+
+18. Relacione a evolução dos microprocessadores com o surgimento dos smartphones.
+A EVOLUÇÃO DOS MICROPROCESSADORES PERMITIU CRIAR CHIPS CADA VEZ  MENORES, RÁPIDOS E COM MENOR CONSUMO DE ENERGIA, ASSIM PERMITIU COLOCAR GRANDE PODER DE PROCESSAMENTO EM PEQUENOS DISPOSITIVOS COMO OS SMARTPHONES.
+
+19. Explique como a Lei de Moore influenciou o desenvolvimento tecnológico nas últimas décadas.
+A LEI DIZ QUE A QUANTIDADE DE PROCESSADORES DOBRA A CADA 2 ANOS, ISSO INCENTIVOU AS EMPRESAS DE TECNOLOGIA A PRODUZIR PROCESSADORES CADA VEZ MENORES E MAIS RÁPIDOS, ACELERANDO O AVANÇO DA COMPUTAÇÃO.
+
+20. Faça uma linha do tempo resumida da evolução: Intel 4004 → Apple I → IBM PC → Macintosh → Apple Silicon.
+ (1971) Intel 4004 → (1976) Apple I →(1981) IBM PC →(1984) Macintosh →(2020) Apple Silicon M1
+ 
