@@ -1,0 +1,416 @@
+Questão 1 O que significa a sigla TPU?
+
+a) Unidade de Programação Tensorial
+
+b) Unidade de Processamento de Texto
+
+c) Unidade de Processamento de Tensores (CORRETA)
+
+d) Unidade de Processamento de Transações
+
+e) Unidade de Processamento de Threads
+
+
+
+Questão 2 Qual empresa desenvolveu a TPU?
+
+a) NVIDIA
+
+b) AMD
+
+c) Intel
+
+d) Google (CORRETA)
+
+e) Microsoft
+
+
+Questão 3 Para qual propósito específico o TPU foi projetado?
+
+a) Processamento gráfico 3D
+
+b) Aprendizado de máquina e operações com tensores (CORRETA)
+
+c) Processamento de banco de dados
+
+d) Criptografia de dados
+
+e) Compressão de vídeo
+
+
+Questão 4 Qual arquitetura de processamento é utilizada pela TPU para multiplicação de matrizes?
+
+a) SIMD (Instrução Única, Dados Múltiplos)
+
+b) MIMD (Múltiplas Instruções, Múltiplos Dados)
+
+c) Arranjo sistólico (arranjo sistólico) (CORRETA)
+
+d) Von Neumann
+
+e) Harvard
+
+
+
+Questão 5 Qual é o formato de otimização otimizado utilizado pelas TPUs modernas?
+
+a) FP32 (ponto flutuante 32 bits)
+
+b) FP64 (ponto flutuante 64 bits)
+
+c) BF16 (bfloat16) (CORRETA)
+
+d) INT32 (inteiro de 32 bits)
+
+e) FP16 (ponto flutuante 16 bits padrão)
+
+
+
+Questão 6 Qual foi o ano de lançamento da primeira TPU (TPU v1)?
+
+a) 2013
+
+b) 2016 (CORRETA)
+
+c) 2018
+
+d) 2020
+
+e) 2022
+
+
+
+Questão 7 Qual era a principal aplicação da TPU v1?
+
+a) Treinamento de redes neurais
+
+b) Inferência de redes neurais (CORRETA)
+
+c) Renderização gráfica
+
+d) Mineração de criptomoedas
+
+e) Processamento de linguagem natural
+
+
+
+Questão 8 Qual componente da TPU é responsável pelas operações de multiplicação de matrizes?
+
+a) VPU (Unidade de Processamento Vetorial)
+
+b) MXU (Unidade de Multiplicação de Matrizes)  (CORRETA)
+
+c) Núcleo esparso
+
+d) Controlador HBM
+
+e) Interface ICI
+
+
+
+Questão 9 Qual unidade da TPU é especializada em operações element-wise como ativações e normalizações?
+
+a) MXU (Unidade de Multiplicação de Matrizes)
+
+b) Núcleo esparso
+
+c) VPU (Unidade de Processamento Vetorial) (CORRETA)
+
+d) Núcleo Tensor
+
+e) Cache L2
+
+
+
+Questão 10 O que são SparseCores nas TPUs modernas?
+
+a) Unidades de atualização de dados esparsos
+
+b) Unidades especializadas em embeddings e lookups para modelos MoE (CORRETA)
+
+c) Caches de baixa latência para matrizes esparsas
+
+d) Núcleos de baixa potência para inferência
+
+e) Controladores de memória para dados esparsos
+
+
+
+Questão 11 Qual tecnologia de interconexão como TPUs utiliza para comunicação entre chips?
+
+a) NVLink
+
+b) Tecido Infinito
+
+c) ICI (Interconexão entre chips) (CORRETA)
+
+d) PCIe 5.0
+
+e) CXL (Compute Express Link)
+
+
+
+Questão 12 Qual topologia de rede as TPUs v5p utilizam para conectar chips em um pod?
+
+a) Hipercubo
+
+b) Malha 2D
+
+c) Toroide 3D (CORRETA)
+
+d) Árvore Gordurosa
+
+e) Libélula
+
+
+
+Questão 13 O que é o OCS (Optical Circuit Switch) nas TPUs Ironwood?
+
+a) Um switch de rede eletrônica de alta velocidade
+
+b) Um switch óptico reconfigurável que conecta cubos dentro do superpod (CORRETA)
+
+c) Um protocolo de comunicação entre chips
+
+d) Um tipo de memória óptica
+
+e) Um compressor de dados ópticos
+
+
+
+Questão 14 Qual é a largura da banda ICI por chip da TPU Ironwood (v7)?
+
+a) 2,4 Tbps
+
+b) 4,8 Tbps
+
+c) 9,6 Tbps (CORRETA)
+
+d) 1,2 Tbps
+
+e) 19,2 Tbps
+
+
+
+Questão 15 Qual compilado é utilizado pelo Google para melhorias de operações de ML para TPU?
+
+a) LLVM
+
+b) GCC
+
+c) XLA (Álgebra Linear Acelerada) (CORRETA)
+
+d) Compilador CUDA (NVCC)
+
+e) Compilador ROCm
+
+
+
+Questão 16 Qual estrutura de programação é recomendada pelo Google para obter desempenho máximo em TPU?
+
+a) TensorFlow
+
+b) PyTorch
+
+c) JAX (CORRETA)
+
+d) Keras
+
+e) Café
+
+
+
+Questão 17 Quantos chips TPU Ironwood (v7) existem em um superpod completo?
+
+a) 4,096
+
+b) 8,960
+
+c) 9,216 (CORRETA)
+
+d) 256
+
+e) 1,024
+
+
+
+Questão 18 Qual é a capacidade de memória HBM3E por chip na TPU Ironwood (v7)?
+
+a) 32 GB
+
+b) 64 GB
+
+c) 95 GB
+
+d) 128 GB
+
+e) 192 GB (CORRETA)
+
+
+
+Questão 19 Qual o desempenho FP8 (pico) da TPU Ironwood (v7) por chip?
+
+a) 459 TFLOPS
+
+b) 918 TFLOPS
+
+c) 2.300 TFLOPS
+
+d) 4,614 TFLOPS (CORRETA)
+
+e) 9,228 TFLOPS
+
+
+
+Questão 20 Qual geração da TPU foi projetada especificamente para a "Era da Inferência"?
+
+a) TPU v4
+
+b) TPU v5e
+
+c) TPU v5p
+
+d) Trillium (v6e)
+
+e) Pau-ferro (v7) (CORRETA)
+
+
+
+Questão 21 Qual foi a primeira TPU a oferecer suporte a treinamento de redes neurais?
+
+a) TPU v1
+
+b) TPU v2 (CORRETA)
+
+c) TPU v3
+
+d) TPU v4
+
+e) TPU v5e
+
+
+
+Questão 22 Qual a principal vantagem da arquitetura systolic array sobre GPUs para multiplicação de matrizes?
+
+a) Maior frequência de clock
+
+b) Reutilização de dados e menor acesso à memória (CORRETA)
+
+c) Mais núcleos de processamento
+
+d) Suporte a mais precisão numérica
+
+e) Menor custo de fabricação
+
+
+
+Questão 23 Qual geração da TPU dinâmica os SparseCores (2ª geração) e topologia 3D Torus?
+
+a) TPU v4
+
+b) TPU v5e
+
+c) TPU v5p (CORRETA)
+
+d) Trillium (v6e)
+
+e) Pau-ferro (v7)
+
+
+
+Questão 24 Além do Google Cloud, onde mais é possível executar cargas de trabalho em TPU?
+
+a) AWS
+
+b) Microsoft Azure
+
+c) Oracle Cloud
+
+d) Apenas o Google Cloud (CORRETA)
+
+e) IBM Cloud
+
+
+
+Questão 25 Qual a eficiência energética da TPU Ironwood (v7) comparada à TPU v1?
+
+a) 2× melhor
+
+b) 5 vezes melhor
+
+c) 10 vezes melhor
+
+d) 20 vezes melhor
+
+e) 30 vezes melhor (CORRETA)
+
+
+
+Questão 26 Qual dessas empresas é cliente conhecido do Google Cloud TPU para treinar seus modelos de IA?
+
+a) OpenAI
+
+b) Antrópico (CORRETA)
+
+c) Meta
+
+d) Tesla
+
+e) Maçã
+
+
+
+Questão 27 Qual é o formato de precisão de 8 bits suportado pelas TPUs modernas para inferência?
+
+a) INT8
+
+b) FP8 (E4M3/E5M2) (CORRETA)
+
+c) BF8
+
+d) UINT8
+
+e) FLUTUAR8
+
+
+
+Questão 28 Quantos links ICI cada chip TPU Ironwood possui para conexão com vizinhos?
+
+a) 2 links
+
+b) 4 elos
+
+c) 6 elos (CORRETA)
+
+d) 8 elos
+
+e) 12 links
+
+
+
+Questão 29 Qual das seguintes operações é MAIS adequada para execução em TPU (vs GPU)?
+
+a) Modelos com lotes pequenos (tamanho do lote = 1)
+
+b) Modelos com muitas operações sequenciais
+
+c) Treinamento de LLMs com lotes grandes (CORRETA)
+
+d) Renderização gráfica em tempo real
+
+e) Processamento de áudio com baixa latência
+
+
+
+Questão 30 Qual é a diferença fundamental entre uma TPU e uma GPU?
+
+a) GPU é ASIC; TPU é propósito geral
+
+b) TPU é ASIC otimizado para ML; GPU é propósito geral paralelo (CORRETA)
+
+c) TPU é mais flexível que GPU
+
+d) GPU não suporta FP8
+
+e) TPU não suporta aprendizagem profunda
+
