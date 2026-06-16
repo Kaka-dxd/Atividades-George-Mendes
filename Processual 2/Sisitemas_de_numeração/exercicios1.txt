@@ -1,0 +1,259 @@
+1
+Qual é a menor unidade de informação em um computador?
+
+a) Byte
+
+b) Bit (CORRETO)
+
+c) Quilobyte
+
+d) Palavra
+
+---
+
+2
+Um byte é composto por:
+
+a) 2 bits
+
+b) 4 bits
+
+c) 8 bits (CORRETO)
+
+d) 16 bits
+
+---
+
+3
+O sistema numérico utilizado internamente pelos computadores é o:
+
+a) Decimal
+
+b) Octal
+
+c) Hexadecimal
+
+d) Binário (CORRETO)
+
+---
+
+4
+O Sistema Binário utiliza quais dígitos?
+
+a) 0 e 1 (CORRETO)
+
+b) 1 e 2
+
+c) 0 a 9
+
+d) A e B
+
+---
+
+5
+Qual das alternativas representa 1 Kilobyte?
+
+a) 512 bytes
+
+b) 1000 bytes
+
+c) 1024 bytes (CORRETO)
+
+d) 2048 bytes
+
+---
+
+6
+Qual padrão é utilizado para representar caracteres em computadores?
+
+a) TCP
+
+b) HTTP
+
+c) ASCII (CORRETO)
+
+d) SMTP
+
+---
+
+7
+Qual componente do processador realiza operações matemáticas e lógicas?
+
+a) RAM
+
+b) ALU (CORRETO)
+
+c) HD
+
+d) GPU
+
+---
+
+8
+Qual componente contém a ALU?
+
+a) Memória RAM
+
+b) Processador (CORRETO)
+
+c) Disco rígido
+
+d) Placa de rede
+
+---
+
+9
+Qual é o resultado da soma binária:
+
+1 + 1
+
+a) 1
+
+b) 2
+
+c) 10 (CORRETO)
+
+d) 11
+
+---
+
+10
+O número binário 1010 corresponde a qual valor decimal?
+
+a) 8
+
+b) 9
+
+c) 10 (CORRETO)
+
+d) 12
+
+---
+
+11
+Qual sistema utiliza 16 símbolos?
+
+a) Decimal
+
+b) Binário
+
+c) Hexadecimal (CORRETO)
+
+d) Octal
+
+---
+
+12
+O número hexadecimal A corresponde a qual número decimal?
+
+a) 8
+
+b) 9
+
+c) 10 (CORRETO)
+
+d) 12
+
+---
+
+13
+A representação de números reais em computadores segue o padrão:
+
+a) IEEE 700
+
+b) IEEE 754 (CORRETO)
+
+c) ISO 9000
+
+d) UTF-8
+
+---
+
+14
+Qual tipo de representação é usado para números com casas decimais?
+
+a) Inteiro
+
+b) Binário puro
+
+c) Ponto flutuante (CORRETO)
+
+d) Octal
+
+---
+
+15
+Qual sistema utiliza numérico base 10?
+
+a) Binário
+
+b) Decimal (CORRETO)
+
+c) Hexadecimal
+
+d) Octal
+
+---
+
+16
+A multiplicação e divisão em computadores são realizadas principalmente por:
+
+a) Memória
+
+b) Sistema operacional
+
+c) Circuitos lógicos (CORRETO)
+
+d) Gráfico de interface
+
+---
+
+17
+Qual dos seguintes é um exemplo de unidade de armazenamento?
+
+a) CPU
+
+b) Byte (CORRETO)
+
+c) Monitor
+
+d) Rato
+
+---
+
+18
+Qual representação permite números positivos e negativos?
+
+a) Inteiros com sinal (CORRETO)
+
+b) Inteiros sem sinal
+
+c) Binário simples
+
+d) ASCII
+
+---
+
+19
+Qual padrão suporta praticamente todos os idiomas do mundo?
+
+a) ASCII
+
+b) Unicode (CORRETO)
+
+c) HTML
+
+d) FTP
+
+---
+
+20
+Qual é a principal função da representação da informação?
+
+a) Criar programas
+
+b) Armazenar dados em formato funcional para o computador (CORRETO)
+
+c) Melhorar a internet
+
+d) Aumentar a memória RAM
