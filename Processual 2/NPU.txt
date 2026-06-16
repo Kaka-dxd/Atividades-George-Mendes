@@ -1,0 +1,414 @@
+Questão 1 O que significa a sigla NPU?
+
+a) Unidade de Processamento de Rede
+
+b) Unidade de Processamento Neural ( CORRETA )
+
+c) Unidade de Processamento Numérico
+
+d) Unidade de Processamento de Nós
+
+e) Unidade de Programação Nativa
+
+
+
+Questão 2 Qual é a principal função de uma NPU?
+
+a) Executar sistemas operacionais
+
+b) Processar gráficos 3D em alta resolução
+
+c) Acelerar operações matemáticas de redes neurais ( CORRETA )
+
+d) Gerenciar a memória RAM do sistema
+
+e) Controlar dispositivos de entrada e saída
+
+
+
+Questão 3 Qual operação matemática é a mais fundamental e acelerada por NPUs?
+
+a) Divisão de ponto flutuante
+
+b) Raiz (Grama)
+
+c) Multiplicação-acumulação (MAC) ( CORRETA )
+
+d) Logaritmo natural
+
+e) Seno e cosseno
+
+
+
+Questão 4 Qual é a unidade básica de processamento dentro de uma NPU?
+
+a) ULA (Unidade Lógica Aritmética)
+
+b) Núcleo CUDA
+
+c) MAC (Multiplicar-Acumular) ( CORRETA )
+
+d) FPU (Unidade de Ponto Flutuante)
+
+e) AGU (Unidade de Geração de Endereços)
+
+
+
+Questão 5 Qual arquitetura de processamento é comumente utilizada em NPUs para multiplicação de matrizes?
+
+a) Von Neumann
+
+b) Harvard
+
+c) Arranjo sistólico (arranjo sistólico) ( CORRETA )
+
+d) Superescalar
+
+e) VLIW (Very Long Instruction Word - Palavra de Instrução Muito Longa)
+
+
+
+Questão 6 Qual formato de isolamento é MAIS utilizado em NPUs para inferência de redes neurais?
+
+a) FP64
+
+b) FP32
+
+c) INT8 ( CORRETA )
+
+d) FP128
+
+e) INT32
+
+
+
+Questão 7 Qual a principal vantagem das NPUs sobre as GPUs para inferência local?
+
+a) Maior flexibilidade de programação
+
+b) Melhor eficiência energética (TOPS por watt) ( CORRETA )
+
+c) Suporte a mais tipos de dados
+
+d) Maior frequência de clock
+
+e) Capacidade de treinar redes neurais
+
+
+
+Questão 8 Qual empresa desenvolveu a arquitetura XDNA utilizada em suas NPUs?
+
+a) Intel
+
+b) Maçã
+
+c) Qualcomm
+
+d) AMD ( CORRETA )
+
+e) Google
+
+
+
+Questão 9 Qual é o NPU presente nos problemas AMD Ryzen 7040 (Zen 4)?
+
+a) XDNA 2
+
+b) Ryzen AI (XDNA 1ª geração) ( CORRETA )
+
+c) Motor Neural
+
+d) Hexágono
+
+e) APU 790
+
+
+Questão 10 Qual é o desempenho (TOPS) do NPU AMD XDNA 2 presente nos Ryzen AI 300?
+
+a) 10 piões
+
+b) 16 piões
+
+c) 35 TAMPÕES
+
+d) 50 TAMPÕES ( CORRETA )
+
+e) 100 TOPS
+
+
+
+Questão 11 Qual é o nome do NPU desenvolvido pela Apple para seus chips da série A e M?
+
+a) Núcleo Neural
+
+b) Motor de IA
+
+c) Motor Neural ( CORRETA )
+
+d) Unidade de Processamento Cerebral
+
+e) Apple Intelligence Core
+
+
+
+Questão 12 Qual processador da Apple possui um NPU Neural Engine com 35 TOPS de desempenho?
+
+a) A14 Biônico
+
+b) A15 Biônico
+
+c) A16 Biônico
+
+d) A17 Pro ( CORRETA )
+
+e) M1
+
+
+Questão 13 Qual é o nome da NPU da Qualcomm apresenta nossa aceleração Snapdragon?
+
+a) Motor de IA
+
+b) Hexágono ( CORRETA )
+
+c) IA Kryo
+
+d) Adreno NPU
+
+e) Espectros
+
+
+
+Questão 14 Qual o desempenho do NPU Hexagon no Snapdragon 8 Gen 3?
+
+a) 20 TIPOS
+
+b) 35 TAMPÕES
+
+c) 48 TOPS ( CORRETA )
+
+d) 50 TAMPÕES
+
+e) 75 TOPS
+
+
+
+Questão 15 Qual a principal limitação de uma NPU em comparação com uma GPU?
+
+a) Consome mais energia
+
+b) É mais cara de fabricar
+
+c) Não é reprogramável para tarefas gerais (apenas inferência de ML) ( CORRETA )
+
+d) agora mais séries sem chip
+
+e) Tem menos desempenho para jogos
+
+
+
+Questão 16 Qual é a métrica padrão para medir o desempenho de uma NPU?
+
+a) FLOPS (Operações de Ponto Flutuante por Segundo)
+
+b) TOPS (Tera Operações por Segundo) em INT8 ( CORRETA )
+
+c) GHz (Gigahertz)
+
+d) DMIPS (Dhrystone Million Instructions Per Second)
+
+e) GB/s (Gigabytes por segundo)
+
+
+Questão 17 O que significa a sigla MAC no contexto de NPUs?
+
+a) Controle de Acesso ao Meio
+
+b) Multiplicar-Acumular ( CORRETA )
+
+c) Código de endereço da máquina
+
+d) Controlador de Acesso à Memória
+
+e) Código Macro Assembler
+
+
+
+Questão 18 Qual componente da NPU é responsável por mover dados entre a memória e os buffers locais?
+
+a) Matriz MAC
+
+b) Unidade de ativação
+
+c) Controlador DMA (Acesso Direto à Memória) ( CORRETA )
+
+d) Sequenciador
+
+e) Arquivo de registro
+
+
+
+Questão 19 Qual formato de precisão de 8 bits é suportado por NPUs modernos para inferência de LLMs?
+
+a) INT8 apenas
+
+b) UINT8 apenas
+
+c) FP8 (E4M3/E5M2) ( CORRETA )
+
+d) BF8
+
+e) FLUTUAR8
+
+
+Questão 20 Qual é a faixa de desempenho típica de NPUs móveis (smartphones) em 2024-2025?
+
+a) 1-5 TAMPÕES
+
+b) 10-50 TOPS ( CORRETA )
+
+c) 100-200 TOPS
+
+d) 500-1000 TOPS
+
+e) 2000-5000 TOPS
+
+
+
+Questão 21 Qual aplicação NÃO é normalmente acelerada por uma NPU?
+
+a) Desfoque de fundo em videoconferências
+
+b) Reconhecimento facial para desbloqueio
+
+c) Renderização de gráficos 3D em jogos ( CORRETA )
+
+d) Redução de ruído em chamadas de áudio
+
+e) Tradução de texto em tempo real
+
+
+
+Questão 22 Qual NPU da Intel está presente na aceleração do Meteor Lake?
+
+a) NPU (sem nome específico) ( CORRETA )
+
+b) Núcleo de IA Movidius
+
+c) GNA (Acelerador Neural Gaussiano)
+
+d) VPU (Unidade de Processamento de Visão)
+
+e) Impulso de IA
+
+
+
+Questão 23 Qual o desempenho do NPU do Intel Meteor Lake?
+
+a) 5 TIPOS
+
+b) 11,5 TOPS ( CORRETA )
+
+c) 20 TIPOS
+
+d) 35 TAMPÕES
+
+e) 48 TOPS
+
+
+
+Questão 24 Qual é a faixa de eficiência energética típica de uma NPU moderna em TOPS por watt?
+
+a) 0,1-0,5 TOPS/W
+
+b) 1-4 TOPS/W
+
+c) 5-15 TOPS/W ( CORRETA )
+
+d) 50-100 TOPS/W
+
+e) 500-1000 TOPS/W
+
+
+
+Questão 25 Qual framework de programação é comumente usado para executar modelos em NPUs?
+
+a) CUDA
+
+b) ROCm
+
+c) OpenCL
+
+d) ONNX Runtime / TFLite ( CORRETA )
+
+e) DirectX
+
+
+
+Questão 26 Qual tipo de rede neural é MAIS beneficiado pela aceleração em NPUs?
+
+a) Redes totalmente conectadas (FCN)
+
+b) Redes neurais recorrentes (RNN)
+
+c) Redes adversariais gerativas (GAN)
+
+d) Transformers e redes de atenção  ( CORRETA )
+
+e) Autoencoders variacionais (VAE)
+
+
+
+Questão 27 Qual é o ganho típico de desempenho ao usar INT8 em vez de FP32 em um NPU?
+
+a) 0,5× (mais lento)
+
+b) 1× (mesmo desempenho)
+
+c) 2×
+
+d) 4× ( CORRETA )
+
+e) 8×
+
+
+
+Questão 28 Qual NPU é utilizado nos lentos MediaTek Dimensity 9300?
+
+a) Hexágono
+
+b) Motor Neural
+
+c) APU 790 ( CORRETA )
+
+d) XDNA
+
+e) Ascender
+
+
+
+Questão 29 Qual é a principal diferença entre uma NPU e uma TPU?
+
+a) TPU é da NVIDIA; NPU é da AMD
+
+b) TPU é para datacenter (Google); NPU é para edge/on-device ( CORRETA )
+
+c) NPU é mais rápido que TPU
+
+d) TPU não acelera matrizes
+
+e) NPU é exclusivo para treinamento
+
+
+
+Questão 30 Qual o papel da memória do scratchpad em um NPU?
+
+a) Armazenar o sistema operacional
+
+b) Servir como memória temporária de baixa latência para pesos e ativações ( CORRETA )
+
+c) Substituir a memória RAM principal
+
+d) Armazenar os drivers da NPU
+
+e) Fazer cache de instruções do programa
+

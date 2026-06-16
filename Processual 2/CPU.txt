@@ -1,0 +1,404 @@
+Questão 1 O que significa a sigla CPU?
+
+a) Unidade Central de Energia
+
+b) Unidade de Processamento do Computador
+
+c) Unidade Central de Processamento (CORRETA)
+
+d) Utilitário de Processamento Central
+
+e) Unidade Central de Programação
+
+
+
+Questão 2 Qual componente é conhecido como o "cérebro" do computador?
+
+a) Memória RAM
+
+b) HD/SSD
+
+c) Fonte de alimentação
+
+d) CPU (CORRETA)
+
+e) Placa-
+
+
+Questão 3 O que são os núcleos (cores) de uma CPU?
+
+a) Unidades de armazenamento temporário
+
+b) Unidades independentes de processamento dentro da CPU (CORRETA)
+
+c) Conectores da CPU com placa-mãe
+
+d) Camadas de proteção térmica do processador
+
+e) Circuitos exclusivos para gráficos
+
+
+Questão 4 A tecnologia da Intel que permite que um único núcleo físico execute dois threads simultaneamente é chamada de:
+
+a) Impulso Turbo
+
+b) SpeedStep
+
+c) Hyper-Threading (CORRETA)
+
+d) Sincronização rápida
+
+e) Tecnologia de virtualização
+
+
+Questão 5 O que a tecnologia Simultaneous Multithreading (SMT) da AMD faz?
+
+a) Núcleos Desativos para Economizar Energia
+
+b) Permite que dois núcleos compartilhem o mesmo thread
+
+c) Permite que um núcleo execute duas threads simultaneamente (CORRETA)
+
+d) Acelerar a comunicação entre CPU e GPU
+
+e) Duplicar a frequência do processador
+
+
+Questão 6 A frequência de uma CPU é medida em:
+
+a) Megabytes (MB)
+
+b) Gigabytes (GB)
+
+c) Megahertz (MHz) ou Gigahertz (GHz) (CORRETA)
+
+d) Megabits por segundo (Mbps)
+
+e) Volts (V)
+
+
+Questão 7 O que significa a sigla IPC no contexto de CPUs?
+
+a) Instruções por relógio (CORRETA)
+
+b) Cache de processamento interno
+
+c) Controlador de potência integrado
+
+d) Número de pinos da interface
+
+e) Comunicação entre processadores
+
+
+Questão 8 Qual é a função da memória cache L1?
+
+a) Armazenar o sistema operacional completo
+
+b) Acelerar o acesso a dados frequentemente usados, com latência muito baixa (CORRETA)
+
+c) Substituir a memória RAM quando ela falhar
+
+d) Armazenar permanentemente as configurações da CPU
+
+e) Fazer backup dos registradores durante a hibernação
+
+
+Questão 9 Qual das opções abaixo representa a classificação correta de memória cache em uma CPU moderna (da mais rápida para a mais lenta)?
+
+a) L3 → L2 → L1
+
+b) L1 → L2 → RAM → L3
+
+c) L2 → L1 → L3
+
+d) L1 → L2 → L3 (CORRETA)
+
+e) RAM → L3 → L2 → L1
+
+
+Questão 10 Qual fabricante de CPUs dinâmicas a arquitetura híbrida com P-cores (desempenho) e E-cores (eficiência)?
+
+a) AMD
+
+b) BRAÇO
+
+c) Intel (CORRETA)
+
+d) Maçã
+
+e) IBM
+
+
+Questão 11 O que significa a sigla TDP (Thermal Design Power)?
+
+a) A tensão máxima suportada pela CPU
+
+b) A quantidade máxima de calor que o sistema de refrigeração deve dissipar (CORRETA)
+
+c) O número máximo de threads suportadas
+
+d) A potência elétrica máxima que uma CPU pode consumir em pico
+
+e) A temperatura máxima que uma CPU pode atingir antes de desligar
+
+
+
+Questão 12 Quais as seguintes empresas NÃO fabricam CPUs baseadas na arquitetura ARM para consumo em massa?
+
+a) Maçã
+
+b) Qualcomm
+
+c) Samsung
+
+d) Intel (CORRETA)
+
+e) MediaTek
+
+
+Questão 13 O que é o processo de fabricação (ex: 5nm, 3nm) em uma CPU?
+
+a) O tamanho físico do processador em nanômetros
+
+b) A distância entre transistores dentro do chip (CORRETA)
+
+c) A espessura do encapsulamento do processador
+
+d) A velocidade máxima de comunicação com a RAM
+
+e) O número de camadas de silício no chip
+
+
+Questão 14 Qual a principal diferença entre a arquitetura x86 (Intel/AMD) e ARM?
+
+a) x86 é mais eficiente energeticamente que ARM
+
+b) ARM usa conjunto de instruções RISC (reduzido), enquanto x86 usa CISC (complexo) (CORRETA)
+
+c) x86 só funciona em dispositivos móveis
+
+d) ARM não suporta multitarefa
+
+e) x86 possui menos transistores que ARM
+
+
+
+Questão 15 A tecnologia Turbo Boost (Intel) ou Precision Boost (AMD) permite que uma CPU:
+
+a) Reduza sua frequência permanentemente para economizar energia
+
+b) Aumente dinamicamente sua frequência acima da base quando há headroom térmico (CORRETA)
+
+c) Desative núcleos ociosos para reduzir o consumo
+
+d) Acelere exclusivamente operações de ponto flutuante
+
+e) Duplicar o cache L3 temporariamente
+
+
+Questão 16 O que é o soquete (socket) da CPU?
+
+a) O software que gerencia a temperatura do processador
+
+b) O conector físico na placa-mãe onde a CPU está instalada (CORRETA)
+
+c) O cooler que refrigera o processador
+
+d) Uma pasta térmica aplicada entre CPU e cooler
+
+e) O conjunto de instruções que a CPU entende
+
+
+Questão 17 Qual microarquitetura da AMD dinâmica ou design de chiplet (múltiplos dados no mesmo pacote)?
+
+a) Bulldozer
+
+b) Escavadeira
+
+c) Zen (primeira-feira)
+
+d) Zen 2 (CORRETA)
+
+e) Zen 4
+
+Questão 18 A arquitetura "big.LITTLE" da ARM consiste em:
+
+a) Um único núcleo muito grande e vários pequenos
+
+b) Uma combinação de núcleos de alto desempenho e núcleos de baixa eficiência energética
+
+c) Dois independentes no mesmo chip
+
+d) Um processador que alterna entre modos grandes e pequenos fisicamente
+
+e) Núcleos que podem ser ligados/desligados individualmente
+
+Resposta correta: b
+
+Questão 19 Qual dos seguintes avanços foi o primeiro da Apple a usar arquitetura ARM em Macs?
+
+a) Fusão A10
+
+b) A12Z Biônico
+
+c) M1
+
+d) M1 Pro
+
+e) A14 Biônico
+
+Resposta correta: c
+
+Questão 20 O que são as instruções AVX-512 encontradas em CPUs Intel e AMD?
+
+a) Instruções de virtualização avançada
+
+b) Instruções de criptografia quântica
+
+c) Instruções SIMD para processamento vetorial de 512 bits
+
+d) Instruções de segurança de memória
+
+e) Instruções de gerenciamento de energia
+
+Resposta correta: c
+
+Questão 21 Qual a função do Branch Predictor em uma CPU?
+
+a) Prever qual caminho um desvio condicional (ramal) vai tomar
+
+b) Prever a próxima instrução a ser realizada
+
+c) Prever a temperatura do processador
+
+d) Prever falhas de cache
+
+e) Gerenciar uma fila de instruções
+
+Resposta correta: a
+
+Questão 22 O que significa Execução Fora de Ordem?
+
+a) Executar instruções sem seguir a ordem do programa quando possível
+
+b) Executar instruções apenas em ordem inversa
+
+c) Ignorar instruções que causam erro
+
+d) Executar tudo paralelamente sem controle
+
+e) Atraso proposta de instruções para economizar energia
+
+Resposta correta: a
+
+Questão 23 Qual CPU Intel foi a primeira a utilizar a arquitetura híbrida com P-cores e E-cores em desktop?
+
+a) Core i9-10900K
+
+b) Core i9-11900K
+
+c) Core i9-12900K (Alder Lake)
+
+d) Core i9-13900K (Raptor Lake)
+
+e) Core i9-14900K (Raptor Lake Refresh)
+
+Resposta correta: c
+
+Questão 24 Qual processador da AMD é conhecido por ter 3D V-Cache, uma camada extra de cache L3 empilhada verticalmente?
+
+a) Ryzen 9 7950X
+
+b) Ryzen 7 5800X
+
+c) Ryzen 7 7800X3D
+
+d) Ryzen 9 7900X
+
+e) Ryzen 5 5600X
+
+Resposta correta: c
+
+Questão 25 O que é um processo de fabricação "Gate-All-Around" (GAAFET)?
+
+a) Um transistor onde o portão envolve todos os lados do canal
+
+b) Um processo que coloca todos os transistores lado a lado
+
+c) Um método de empilhamento horizontal de transistores
+
+d) Uma técnica apenas para memórias, não CPUs
+
+e) Um processador exclusivo da Intel para seus Core i9
+
+Resposta correta: a
+
+Questão 26 Qual das alternativas descreve corretamente a diferença entre uma CPU e uma GPU?
+
+a) CPU tem milhares de núcleos simples; GPU tem poucos núcleos complexos
+
+b) CPU é apenas para cálculos matemáticos; GPU é apenas para gráficos
+
+c) CPU tem poucos núcleos complexos; GPU tem milhares de núcleos simples
+
+d) CPU e GPU são idênticas, só mudam o nome
+
+e) CPU opera em inteiros; GPU opera apenas em ponto flutuante
+
+Resposta correta: c
+
+Questão 27 O que significa a sigla NPU (Neural Processing Unit) em uma CPU moderna?
+
+a) Unidade de processamento de rede
+
+b) Unidade de processamento numérico
+
+c) Unidade de processamento neural - acelerador de IA e machine learning
+
+d) Unidade de processamento de nicho
+
+e) Unidade de processamento não volátil
+
+Resposta correta: c
+
+Questão 28 Qual empresa projetou a arquitetura Neoverse, voltada para servidores e HPC?
+
+a) Intel
+
+b) AMD
+
+c) Maçã
+
+d) BRAÇO
+
+e) IBM
+
+Resposta correta: d
+
+Questão 29 O que acontece quando uma CPU sofre de "thermal throttling"?
+
+a) A CPU aumenta sua frequência automaticamente
+
+b) Uma CPU reduz sua frequência para evitar superaquecimento
+
+c) Uma CPU desliga completamente
+
+d) A CPU aciona um alarme sonoro
+
+e) Processos de redirecionamento de CPU para GPU
+
+Resposta correta: b
+
+Questão 30 Qual o principal diferencial da microarquitetura Zen 5 da AMD em relação ao Zen 4?
+
+a) Mudança para AM5
+
+b) Aumento da decodificação de 4 vias para 8 vias
+
+c) Remoção do SMT
+
+d) Integração da GPU no mesmo núcleo do núcleo
+
+e) Redução do número de núcleos para maior frequência
+
+Resposta correta: b
